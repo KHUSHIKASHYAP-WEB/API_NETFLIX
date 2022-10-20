@@ -1,0 +1,28 @@
+//CRUD OPERATIONS WITH EXPRESS
+//CREATE==POST
+//READ==GET
+//UPDATE==PUT
+//DELETE==DELETE
+
+//GLOBAL PACKAGE NODEMON
+//4 METHOD IN API
+GET;
+PUT;
+POST;
+DELETE;
+
+//every change you have restart the app so here we are installing nodemon
+//nodemon->have to be installed inside the laptop
+//nodemon is a global dependencies
+//open the cmd as administrator
+//npm i -g package name
+//give command
+//npm run dev
+
+//morgan
+//used for log purpose
+
+
+//
+connection string for the cloud
+mongodb+srv://khushi123:khushi123@cluster0.sjovgfg.mongodb.net/?retryWrites=true&w=majority
